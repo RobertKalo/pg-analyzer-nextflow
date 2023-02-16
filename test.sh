@@ -1,0 +1,1 @@
+nextflow run pg-analyzer.nf
